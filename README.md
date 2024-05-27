@@ -1,4 +1,5 @@
-sorry for the inconvinece but when we push the whole project it is not opening the individual folder so we took then individually the above are the links for different modules
+sorry for the inconvinece but when we push the whole project it is not opening the individual folder so we took then individually the following  are the links for different modules which contain source code
+
 
 link for the addtocart file:  https://github.com/sunkajayanthreddy/addtocart
 
